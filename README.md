@@ -9,13 +9,13 @@
 
 这个是网易云用户爬取项目文件。
 
-主文件为：WangyiyunSUer->WangyiyunUser->spiders->user.py
+主文件为：WangyiyunUser->WangyiyunUser->spiders->user.py
 
 ## 二、MusicMenu文件
 
 这个是网易云音乐歌单项目文件。
 
-主文件为：MusicMenu->MusicMenu->Spiders->menu.py
+主文件为：MusicMenu->MusicMenu->spiders->menu.py
 
 ## 三、wangyiyun文件
 
